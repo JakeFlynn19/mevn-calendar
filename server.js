@@ -15,8 +15,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.static('public'));
 app.use(methodOverride('_method'));
 
-app.use('/', indexRouter);
-app.use('/', groceriesRouter);
+app.use('/', tasks);
 
 app.listen(port, function() {
     console.log(`Express is listening on port:${port}`)
