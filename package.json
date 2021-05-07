@@ -10,6 +10,11 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.7",
+    "morgan": "^1.10.0",
     "vue": "^2.6.11",
     "vue-textarea-autosize": "^1.1.1",
     "vuetify": "^2.4.0"
@@ -45,5 +50,18 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeFlynn19/mevn-calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeFlynn19/mevn-calendar/issues"
+  },
+  "homepage": "https://github.com/JakeFlynn19/mevn-calendar#readme"
 }
