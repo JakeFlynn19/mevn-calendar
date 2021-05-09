@@ -12,6 +12,7 @@ Click [here](https://vuelendar.vercel.app/) to access the live site!
 - Vercel
 
 ## Screenshots
+![Screen Shot 2021-05-09 at 3 00 10 PM](https://user-images.githubusercontent.com/78702792/117585703-d6095c80-b0e1-11eb-8b35-986d2886e000.png)
 
 
 ## Future Enhancements
