@@ -6,7 +6,6 @@
 
 ## Technologies Used
 - Vue
-- Vuex
 - Vuetify
 - Firebase
 - Vercel
