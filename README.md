@@ -2,7 +2,7 @@
 - Simple calendar app that allows users to keep track of events.
 
 ## Getting Started
-Click [here](https://vuelendar.vercel.app/) to access the live site!
+- Click [here](https://vuelendar.vercel.app/) to access the live site!
 
 ## Technologies Used
 - Vue
