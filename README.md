@@ -1,24 +1,20 @@
-# vue-cal
+# Vuelendar
+- Simple calendar app that allows users to keep track of events.
 
-## Project setup
-```
-npm install
-```
+## Getting Started
+Click [here](https://vuelendar.vercel.app/) to access the live site!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies Used
+- Vue
+- Vuex
+- Vuetify
+- Firebase
+- Vercel
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshots
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Future Enhancements
+- Use authentication to support individual calendars.
+- Allow users to specify time slots for each day.
+- Combine calendar with weather api to provide daily weather.
